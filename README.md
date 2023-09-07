@@ -12,6 +12,7 @@ A website that generates a unique password. This is a convenient way for users t
 N/A
 
 ## Usage
+To access the password generator, please follow the URL: https://itsbbea.github.io/password-generator/
 Follow the prompts shown, it will present a list of alerts where you can provide your preferred password length, upper and lowercase letters, numbers and special characters. 
 ## Credits
 N/A
