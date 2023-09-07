@@ -5,6 +5,7 @@ A website that generates a unique password. This is a convenient way for users t
 
 ## Screenshots
 ![Screenshot 2023-09-07 221333](https://github.com/itsbbea/password-generator/assets/137044035/a3c9debf-30e4-4888-b494-2d5951bb512c)
+![Screenshot 2023-09-07 221626](https://github.com/itsbbea/password-generator/assets/137044035/34a97333-edf2-47ea-9dcc-e01e90606fde)
 
 
 ## Installation
